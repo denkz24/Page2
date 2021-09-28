@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Congratulations
 
-You can use the [editor on GitHub](https://github.com/denkz24/Page2/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You have made the most correct choice
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/91450368/135056369-b474f1c3-4296-4683-ab4a-eba2bc113271.png)
+
+
 
 ### Markdown
 
